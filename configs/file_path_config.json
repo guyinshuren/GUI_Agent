@@ -1,0 +1,6 @@
+{
+    "results_dir": "results",
+    "temp_dir": "tmp",
+
+    "app_package_config_path": "configs/app_package_config.json"
+}
